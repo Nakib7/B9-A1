@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 2% ;
+    /* color: aquas; */
+}
+.banner-text{
+    background-image: url('../resources/Banner\ Image.png')
+}
+.banner-text{
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 1320px;
+    height: 600px;
+    background-size: contain;
+    /* background: linear-gradient(180deg, #070211 0%, rgba(3, 2, 1, 0.00) 100%); */
+}
+
+.banner-text h1{
+    color: #FFF; 
+    font-size: 32px;
+    text-align: center;
+    font-weight: 400;
+     margin: 70px;
+}
+
+.h2{
+    color: #FFF;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+    text-align: center;
+    margin: 0px;
+
+}
+
+.container{
+    width: 80%;
+    max-width: 1320px;
+    margin: auto; 
+}
